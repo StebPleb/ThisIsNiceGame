@@ -1,1 +1,0 @@
-does gitkraken not push empty folders onto the git?
